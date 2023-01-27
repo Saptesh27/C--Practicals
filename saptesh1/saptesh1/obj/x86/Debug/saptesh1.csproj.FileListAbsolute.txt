@@ -1,0 +1,7 @@
+c:\users\imrd\documents\visual studio 2010\Projects\saptesh1\saptesh1\bin\Debug\saptesh1.exe
+c:\users\imrd\documents\visual studio 2010\Projects\saptesh1\saptesh1\bin\Debug\saptesh1.pdb
+c:\users\imrd\documents\visual studio 2010\Projects\saptesh1\saptesh1\obj\x86\Debug\saptesh1.Form1.resources
+c:\users\imrd\documents\visual studio 2010\Projects\saptesh1\saptesh1\obj\x86\Debug\saptesh1.Properties.Resources.resources
+c:\users\imrd\documents\visual studio 2010\Projects\saptesh1\saptesh1\obj\x86\Debug\saptesh1.csproj.GenerateResource.Cache
+c:\users\imrd\documents\visual studio 2010\Projects\saptesh1\saptesh1\obj\x86\Debug\saptesh1.exe
+c:\users\imrd\documents\visual studio 2010\Projects\saptesh1\saptesh1\obj\x86\Debug\saptesh1.pdb
