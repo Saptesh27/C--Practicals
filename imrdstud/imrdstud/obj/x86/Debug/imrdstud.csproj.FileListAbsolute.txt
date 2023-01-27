@@ -1,0 +1,7 @@
+c:\users\imrd\documents\visual studio 2010\Projects\imrdstud\imrdstud\obj\x86\Debug\imrdstud.Form1.resources
+c:\users\imrd\documents\visual studio 2010\Projects\imrdstud\imrdstud\obj\x86\Debug\imrdstud.Properties.Resources.resources
+c:\users\imrd\documents\visual studio 2010\Projects\imrdstud\imrdstud\obj\x86\Debug\imrdstud.csproj.GenerateResource.Cache
+c:\users\imrd\documents\visual studio 2010\Projects\imrdstud\imrdstud\bin\Debug\imrdstud.exe
+c:\users\imrd\documents\visual studio 2010\Projects\imrdstud\imrdstud\bin\Debug\imrdstud.pdb
+c:\users\imrd\documents\visual studio 2010\Projects\imrdstud\imrdstud\obj\x86\Debug\imrdstud.exe
+c:\users\imrd\documents\visual studio 2010\Projects\imrdstud\imrdstud\obj\x86\Debug\imrdstud.pdb
