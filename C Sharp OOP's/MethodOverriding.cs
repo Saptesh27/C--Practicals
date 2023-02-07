@@ -17,7 +17,7 @@ namespace Method_Overriding
 
     class demo1 : demo
     {
-        public override void show() //base keyword in child class
+        public override void show() //override keyword in child class
         {
             Console.WriteLine("Derived  class...");
         }
