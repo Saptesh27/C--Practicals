@@ -1,0 +1,18 @@
+c:\users\imrdcomp110\documents\visual studio 2010\Projects\balaji b2\balaji b2\bin\Debug\balaji b2.exe
+c:\users\imrdcomp110\documents\visual studio 2010\Projects\balaji b2\balaji b2\bin\Debug\balaji b2.pdb
+c:\users\imrdcomp110\documents\visual studio 2010\Projects\balaji b2\balaji b2\obj\x86\Debug\balaji_b2.Form1.resources
+c:\users\imrdcomp110\documents\visual studio 2010\Projects\balaji b2\balaji b2\obj\x86\Debug\balaji_b2.Properties.Resources.resources
+c:\users\imrdcomp110\documents\visual studio 2010\Projects\balaji b2\balaji b2\obj\x86\Debug\balaji b2.csproj.GenerateResource.Cache
+c:\users\imrdcomp110\documents\visual studio 2010\Projects\balaji b2\balaji b2\obj\x86\Debug\balaji b2.exe
+c:\users\imrdcomp110\documents\visual studio 2010\Projects\balaji b2\balaji b2\obj\x86\Debug\balaji b2.pdb
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji b2.exe
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji b2.pdb
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\bin\Debug\balaji b2.exe
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\bin\Debug\balaji b2.pdb
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji_b2.Form1.resources
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji_b2.Properties.Resources.resources
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji b2.csproj.GenerateResource.Cache
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji_b2.login46.resources
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji_b2.Dashboard.resources
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji_b2.Product.resources
+C:\Users\imrdcomp110\Documents\Visual Studio 2010\Projects\nilima\balaji b2\balaji b2\obj\x86\Debug\balaji b2.csprojResolveAssemblyReference.cache
