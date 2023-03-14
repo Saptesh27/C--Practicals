@@ -1,0 +1,8 @@
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\vaishnavi\timer1.cs\timer1.cs\bin\Debug\timer1.cs.exe
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\vaishnavi\timer1.cs\timer1.cs\bin\Debug\timer1.cs.pdb
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\vaishnavi\timer1.cs\timer1.cs\obj\x86\Debug\timer1.cs.Form1.resources
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\vaishnavi\timer1.cs\timer1.cs\obj\x86\Debug\timer1.cs.form2.resources
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\vaishnavi\timer1.cs\timer1.cs\obj\x86\Debug\timer1.cs.Properties.Resources.resources
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\vaishnavi\timer1.cs\timer1.cs\obj\x86\Debug\timer1.cs.csproj.GenerateResource.Cache
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\vaishnavi\timer1.cs\timer1.cs\obj\x86\Debug\timer1.cs.exe
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\vaishnavi\timer1.cs\timer1.cs\obj\x86\Debug\timer1.cs.pdb
