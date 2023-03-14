@@ -1,0 +1,8 @@
+C:\Users\IMRD\documents\visual studio 2010\Projects\Student Form\Student Form\bin\Debug\Student Form.exe
+C:\Users\IMRD\documents\visual studio 2010\Projects\Student Form\Student Form\bin\Debug\Student Form.pdb
+C:\Users\IMRD\documents\visual studio 2010\Projects\Student Form\Student Form\obj\x86\Debug\Student_Form.Form1.resources
+C:\Users\IMRD\documents\visual studio 2010\Projects\Student Form\Student Form\obj\x86\Debug\Student_Form.Properties.Resources.resources
+C:\Users\IMRD\documents\visual studio 2010\Projects\Student Form\Student Form\obj\x86\Debug\Student Form.csproj.GenerateResource.Cache
+C:\Users\IMRD\documents\visual studio 2010\Projects\Student Form\Student Form\obj\x86\Debug\Student Form.exe
+C:\Users\IMRD\documents\visual studio 2010\Projects\Student Form\Student Form\obj\x86\Debug\Student Form.pdb
+C:\Users\IMRD\documents\visual studio 2010\Projects\Student Form\Student Form\obj\x86\Debug\Student Form.csprojResolveAssemblyReference.cache
