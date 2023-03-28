@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication16
+{
+        interface demo
+    {
+        void read();
+    }
+    class demo1
+    {
+        public void cat()
+        {
+            int x = 5;
+            Console.WriteLine("x="+x);
+        }
+    }
+    class demo2:demo1,demo
+    {
+     public void read()
+     {
+        int x=10;
+         Console.WriteLine("x="+x);
+     }
+
+    }
+    
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            demo2 d = new demo2();
+            d.read();
+            d.cat();
+            Console.ReadLine();
+        }
+    }
+}
